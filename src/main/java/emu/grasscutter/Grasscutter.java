@@ -126,7 +126,7 @@ public final class Grasscutter {
 		Runtime.getRuntime().addShutdownHook(new Thread(Grasscutter::onShutdown));
 
 		// Open console.
-		startConsole();
+//		startConsole();
  }
 
 	/**
